@@ -34,16 +34,20 @@
 
 
 ### Top languages used in repository card
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VhugalaGalaxie&theme=transparent)
+<img align-"left" width=47% src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VhugalaGalaxie&theme=transparent" />
+
 
 ### Top languages in commits card
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VhugalaGalaxie&theme=transparent)
+<img align-"left" width=47% src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VhugalaGalaxie&theme=transparent" />
+
 
 ### GitHub stats card
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VhugalaGalaxie&theme=transparent&)
+<img align-"left" width=47% src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VhugalaGalaxie&theme=transparent&" />
+
 
 ### Productive time card
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VhugalaGalaxie&theme=transparent&utcOffset=8)
+<img align-"left" width=47% src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VhugalaGalaxie&theme=transparent&utcOffset=8" />
+
 
 
 ---
