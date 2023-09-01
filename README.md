@@ -24,6 +24,7 @@
 
 </div>
 
+<div align="left" width=47%>
 ## VhugalaGalaxie
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VhugalaGalaxie&theme=transparent)
@@ -45,8 +46,8 @@
 
 
 ### Productive time card
-align="left" width=47% ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VhugalaGalaxie&theme=transparent&utcOffset=8)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VhugalaGalaxie&theme=transparent&utcOffset=8)
+</div>
 
 ---
 
