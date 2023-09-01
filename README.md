@@ -15,10 +15,6 @@
 </div>
 
 <div align="center">
-<p>
-<a href="https://github-profile-summary-cards.vercel.app/demo.html">Get your own cards now!!</a>
-</p>
-
 
 ![](https://raw.githubusercontent.com/VhugalaGalaxie/VhugalaGalaxie/master/profile-summary-card-output/solarized/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/VhugalaGalaxie/VhugalaGalaxie/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
