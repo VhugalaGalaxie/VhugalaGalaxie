@@ -28,28 +28,28 @@
 
 </div>
 
-## Themes
+## VhugalaGalaxie
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VhugalaGalaxie&theme=transparent)
 
 ### Profile details card
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VhugalaGalaxie&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VhugalaGalaxie&theme=transparent)
 
 
 ### Top languages used in repository card
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VhugalaGalaxie&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VhugalaGalaxie&theme=transparent)
 
 
 ### Top languages in commits card
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VhugalaGalaxie&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VhugalaGalaxie&theme=transparent)
 
 
 ### GitHub stats card
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VhugalaGalaxie&theme=nord_bright&)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VhugalaGalaxie&theme=transparent&)
 
 
 ### Productive time card
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VhugalaGalaxie&theme=nord_bright&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VhugalaGalaxie&theme=transparent&utcOffset=8)
 
 
 ---
