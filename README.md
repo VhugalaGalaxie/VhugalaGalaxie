@@ -45,7 +45,7 @@
 
 
 ### Productive time card
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VhugalaGalaxie&theme=transparent&utcOffset=8)
+align="left" width=47% ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VhugalaGalaxie&theme=transparent&utcOffset=8)
 
 
 ---
