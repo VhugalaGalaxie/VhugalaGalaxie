@@ -3,7 +3,7 @@
    
    
    <p align="center">
-      <a href="https://github.com/VhugalaGalaxie/github-profile-summary-cards/stargazers">
+      <a href="https://github.com/VhugalaGalaxie/printf">
       <img alt="Stargazers" src="https://img.shields.io/github/stars/VhugalaGalaxie/github-profile-summary-cards?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
       <a href="https://github.com/VhugalaGalaxie/github-profile-summary-cards/releases/latest">
       <img alt="Releases" src="https://img.shields.io/github/release/VhugalaGalaxie/github-profile-summary-cards.svg?style=for-the-badge&logo=semantic-release&color=f5bde6&logoColor=D9E0EE&labelColor=302D41"/></a>
