@@ -42,7 +42,7 @@
 </div>
 
 
-## VhugalaGalaxie
+## VhugalaGalaxie (Sum)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VhugalaGalaxie&theme=transparent)
 
